@@ -1,0 +1,7 @@
+fun main() { 
+println("Hello World") 
+var number:  Int -0 
+number++
+println ("To jest liczba: $number ")
+
+}
